@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Loan Calculator
+A loan calculator allows us to select an amount of money, a term to pay, and a summary of payments: the total to pay and the monthly fee.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Built With
 
-## Available Scripts
+- React
+- HTML/CSS & JavaScript best practices: Correct use of tags, elements, properties and syntax.
+- Linters Check: Local and Pull Request check for errors, bugs and stylistic errors in code.
+- Gitflow
 
-In the project directory, you can run:
+## Live Demo
 
-### `npm start`
+[Live Demo](https://)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Screenshot
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Desktop Version](./src/images/desktop-version.png)
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get a local copy up and running follow these simple example steps.
 
-### `npm run build`
+### Prerequisites
+- Have a source code editor such as VSCode
+- Install nodeJS along with NPM
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Setup
+- Clone this repository into your local environment with `git clone https://github.com/vvoo21/loan-calculator.git`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Install
+- Just run `npm i` on the root of the project and you're good to go. All of the necesary packages will be installed for you!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Run tests
+- Run `npm start` to se a live version of the project on your browser
+- Run `npx hint .` to get Webhint going, a linter for HTML
+- Run `npx stylelint --fix "**/*.{css,scss}"` to get Stylelint going, a linter for CSS
+- Run `npx eslint --fix .` to get ESLint going, a linter for JS
 
 ### Deployment
+- Run `npm run build` for Webpack to generate the dist files corresponding to your actual /src files
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Author
 
-### `npm run build` fails to minify
+👤 **Vanessa Oliveros Padron**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub: [@vvoo21](https://github.com/vvoo21)
+- Twitter: [@vaneoliverosp](https://twitter.com/vaneoliverosp)
+- LinkedIn: [vaneoliverosp](https://www.linkedin.com/in/vaneoliverosp/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to the Microverse program!
+- Hat tip to anyone whose code was used!
+
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
