@@ -16,7 +16,7 @@ const Input = () => {
 
   useEffect(() => {
     setPayment(total / months);
-  }, [total]);
+  }, [total, months]);
 
   const min = 0;
   const max = 20000;
