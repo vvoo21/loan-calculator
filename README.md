@@ -1,11 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-
-  <h3><b>Loan Calculator</b></h3>
-
-</div>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -44,7 +36,7 @@ A loan calculator allows us to select an amount of money, a term to pay, and a s
 
 ## 🖼️ Screenshot <a name="live-demo"></a>
 
-- [Desktop Version](./src/images/desktop-version.png)
+- ![Desktop Version](./src/images/desktop-version.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
