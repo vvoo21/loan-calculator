@@ -30,7 +30,7 @@ A loan calculator allows us to select an amount of money, a term to pay, and a s
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://lambent-tulumba-09e54e.netlify.app/)
+- [Live Demo Link](https://peppy-pony-4cc1a2.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
